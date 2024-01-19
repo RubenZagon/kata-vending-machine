@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata.VendingMachine", "Kata.VendingMachine\Kata.VendingMachine.csproj", "{D1955A3E-27F1-4022-8D97-52F62DAE3BA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata.VendingMachine.Unit.Tests", "Kata.VendingMachine.Unit.Tests\Kata.VendingMachine.Unit.Tests.csproj", "{EE452A8C-D3A4-4545-BCCE-AA37CFC91BAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1955A3E-27F1-4022-8D97-52F62DAE3BA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1955A3E-27F1-4022-8D97-52F62DAE3BA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1955A3E-27F1-4022-8D97-52F62DAE3BA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1955A3E-27F1-4022-8D97-52F62DAE3BA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE452A8C-D3A4-4545-BCCE-AA37CFC91BAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE452A8C-D3A4-4545-BCCE-AA37CFC91BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE452A8C-D3A4-4545-BCCE-AA37CFC91BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE452A8C-D3A4-4545-BCCE-AA37CFC91BAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
